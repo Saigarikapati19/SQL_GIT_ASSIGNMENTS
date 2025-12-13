@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\RemotingTrn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF34888-C5A4-4E82-B183-B08FE2AAD8A6}|ClientApp\\ClientApp.csproj|c:\\c#\\remotingtrn\\clientapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF34888-C5A4-4E82-B183-B08FE2AAD8A6}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9CED5C-E7BB-46DE-82C7-FDDF5EC8AB08}|ServerClass\\ServerClass.csproj|C:\\c#\\RemotingTrn\\serverclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9CED5C-E7BB-46DE-82C7-FDDF5EC8AB08}|ServerClass\\ServerClass.csproj|solutionrelative:serverclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBFA39-B340-4FBC-8930-02EEBB22CF43}|RemotingLib\\RemotingLib.csproj|C:\\c#\\RemotingTrn\\remotinglib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBFA39-B340-4FBC-8930-02EEBB22CF43}|RemotingLib\\RemotingLib.csproj|solutionrelative:remotinglib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB74C251-70B0-429B-ADD3-1B8275BB756A}|RemotingTrn\\RemotingTrn.csproj|C:\\c#\\RemotingTrn\\remotingtrn\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB74C251-70B0-429B-ADD3-1B8275BB756A}|RemotingTrn\\RemotingTrn.csproj|solutionrelative:remotingtrn\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\c#\\RemotingTrn\\ClientApp\\Class1.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Class1.cs",
+              "ToolTip": "C:\\c#\\RemotingTrn\\ClientApp\\Class1.cs",
+              "RelativeToolTip": "ClientApp\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:49:54.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\c#\\RemotingTrn\\ServerClass\\Class1.cs",
+              "RelativeDocumentMoniker": "ServerClass\\Class1.cs",
+              "ToolTip": "C:\\c#\\RemotingTrn\\ServerClass\\Class1.cs",
+              "RelativeToolTip": "ServerClass\\Class1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:49:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\c#\\RemotingTrn\\RemotingLib\\Class1.cs",
+              "RelativeDocumentMoniker": "RemotingLib\\Class1.cs",
+              "ToolTip": "C:\\c#\\RemotingTrn\\RemotingLib\\Class1.cs",
+              "RelativeToolTip": "RemotingLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:49:05.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\c#\\RemotingTrn\\RemotingTrn\\Class1.cs",
+              "RelativeDocumentMoniker": "RemotingTrn\\Class1.cs",
+              "ToolTip": "C:\\c#\\RemotingTrn\\RemotingTrn\\Class1.cs",
+              "RelativeToolTip": "RemotingTrn\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:48:30.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

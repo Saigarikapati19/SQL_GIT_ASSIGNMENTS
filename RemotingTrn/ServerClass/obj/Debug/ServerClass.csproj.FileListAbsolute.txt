@@ -1,0 +1,11 @@
+C:\c#\RemotingTrn\ServerClass\bin\Debug\ServerClass.pdb
+C:\c#\RemotingTrn\ServerClass\bin\Debug\RemotingLib.dll
+C:\c#\RemotingTrn\ServerClass\bin\Debug\RemotingTrn.dll
+C:\c#\RemotingTrn\ServerClass\bin\Debug\RemotingLib.pdb
+C:\c#\RemotingTrn\ServerClass\bin\Debug\RemotingTrn.pdb
+C:\c#\RemotingTrn\ServerClass\obj\Debug\ServerClass.csproj.AssemblyReference.cache
+C:\c#\RemotingTrn\ServerClass\obj\Debug\ServerClass.csproj.CoreCompileInputs.cache
+C:\c#\RemotingTrn\ServerClass\obj\Debug\ServerCl.1EF51EA6.Up2Date
+C:\c#\RemotingTrn\ServerClass\obj\Debug\ServerClass.pdb
+C:\c#\RemotingTrn\ServerClass\bin\Debug\ServerClass.exe
+C:\c#\RemotingTrn\ServerClass\obj\Debug\ServerClass.exe

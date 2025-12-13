@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClientApp/ClientApp.csproj" Id="eef34888-c5a4-4e82-b183-b08fe2aad8a6" />
+  <Project Path="RemotingLib/RemotingLib.csproj" Id="a5fbfa39-b340-4fbc-8930-02eebb22cf43" />
+  <Project Path="RemotingTrn/RemotingTrn.csproj" Id="eb74c251-70b0-429b-add3-1b8275bb756a" />
+  <Project Path="ServerClass/ServerClass.csproj" Id="bf9ced5c-e7bb-46de-82c7-fddf5ec8ab08" />
+</Solution>
